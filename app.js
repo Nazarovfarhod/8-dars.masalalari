@@ -15,11 +15,23 @@
 // console.log(getLevel2(5));
 
 // 2-masala
+// let n = 5;
+// let A = 2;
+// let B = 3;
 
 // function add(n, A, B) {
 //   let arr = [];
-
+//   arr.push(A, B);
+//   for (let i = 2; i < n; i++) {
+//     let sum = arr.reduce((acc, curVal) => {
+//       return acc + curVal;
+//     });
+//     arr.push(sum);
+//   }
+//   return arr;
 // }
+
+// console.log(add(n, A, B));
 
 // 3-masala
 
